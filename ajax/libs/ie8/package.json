@@ -18,6 +18,7 @@
     "type": "git",
     "url": "git://github.com/WebReflection/ie8.git"
   },
+  "license": "MIT",
   "filename": "ie8.js",
   "autoupdate": {
     "source": "git",
