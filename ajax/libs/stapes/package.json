@@ -23,5 +23,6 @@
         "stapes.min.js"
       ]
     }
-  ]
+  ],
+  "license": "MIT"
 }
